@@ -124,3 +124,17 @@ section .footer .row ul li a{
   color: #5f6368;
   margin-right: 25px;
 }
+
+
+/*RESPONSIVE*/
+@media(max-width:1000px){
+section .main .search .s1{
+  width:78% ;
+}
+section .main .search .mic{
+  width:84%;
+}
+section .footer .row ul{
+  display: block;
+}
+}
